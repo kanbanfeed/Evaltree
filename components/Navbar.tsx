@@ -36,8 +36,12 @@ export default function Navbar() {
           <div className="flex items-center justify-between h-16 md:h-20">
             {/* Logo */}
             <Link href="/" className="group flex items-center gap-2">
-              <div className="w-8 h-8 bg-gradient-to-br from-[#B7860B] to-[#E5A620] rounded-lg flex items-center justify-center shadow-md group-hover:scale-105 transition-transform duration-300">
-                <Sparkles className="w-4 h-4 text-white" />
+              <div className="w-20 h-24 relative group-hover:scale-105 transition-transform duration-300">
+                <img
+                  src="/Evaltree_logo.jpeg"
+                  alt="Evaltree Logo"
+                  className="w-full h-full object-contain"
+                />
               </div>
               <div className="text-xl font-bold bg-gradient-to-r from-[#0D2137] to-[#0F2A3E] bg-clip-text text-transparent">
                 Evaltree

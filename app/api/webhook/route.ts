@@ -61,7 +61,7 @@ export async function POST(req: NextRequest) {
         },
         body: JSON.stringify({
           sender: {
-            email: "rakshithav1358@gmail.com",
+            email: "support@evaltree.com",
             name: "Evaltree",
           },
           to: [{ email: customerEmail }],

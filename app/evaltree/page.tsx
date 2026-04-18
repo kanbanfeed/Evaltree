@@ -156,7 +156,7 @@ const TIERS = [
   {
     id: "mirror",
     name: "Mirror",
-    price: "$49",
+    price: "$45",
     badge: null,
     tagline: "Know where you stand",
     features: [
@@ -167,13 +167,13 @@ const TIERS = [
       "Email delivery within minutes",
     ],
     notIncluded: ["Full options map", "Scenario modelling", "Reckoning deep-dive"],
-    cta: "Get Mirror – $49",
+    cta: "Get Mirror – $45",
     plan: "mirror",
   },
   {
     id: "map",
     name: "The Map",
-    price: "$99",
+    price: "$95",
     badge: "Most Popular",
     tagline: "See all your options clearly",
     features: [
@@ -185,13 +185,13 @@ const TIERS = [
       "Priority action list",
     ],
     notIncluded: ["Reckoning deep-dive"],
-    cta: "Get The Map – $99",
+    cta: "Get The Map – $95",
     plan: "map",
   },
   {
     id: "reckoning",
     name: "Reckoning",
-    price: "$149",
+    price: "$295",
     badge: null,
     tagline: "The complete picture",
     features: [
@@ -203,7 +203,7 @@ const TIERS = [
       "Personalised next-step roadmap",
     ],
     notIncluded: [],
-    cta: "Get Reckoning – $149",
+    cta: "Get Reckoning – $295",
     plan: "reckoning",
   },
 ];

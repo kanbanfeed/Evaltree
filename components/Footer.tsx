@@ -80,9 +80,9 @@ export default function Footer() {
             <div className="mt-3 text-sm opacity-75">
               <a
                 className="font-medium underline underline-offset-4"
-                href="mailto:support@crowbarltd.com"
+                href="mailto:support@evaltree.com"
               >
-                support@crowbarltd.com
+                support@evaltree.com
               </a>
               <p className="mt-1 text-sm opacity-70">
                 Typical response time: within 7 business days.

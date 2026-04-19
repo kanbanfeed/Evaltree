@@ -135,7 +135,7 @@ const FAQS = [
   },
   {
     q: "What's the refund policy?",
-    a: "All purchases are non-refundable due to the digital nature of the product. If you have a genuine issue with your delivery, contact support@crowbarltd.com and we'll make it right.",
+    a: "48-hour money-back guarantee. If your report failed to generate or was incorrectly matched, contact us within 48 hours for a full refund, contact support@evaltree.com and we'll make it right.",
   },
   {
     q: "How is Mirror different from The Map?",
@@ -912,7 +912,7 @@ export default function EvaltreeLanding() {
           </div>
           <p className="mt-2 text-sm opacity-75 leading-relaxed">
             Evaltree reports are informational and data-driven. They do not constitute legal, financial, or career advice.
-            All purchases are non-refundable due to digital delivery. Please read our{" "}
+            48-hour money-back guarantee on all reports. Contact support@evaltree.com within 48 hours if unsatisfied. Please read our{" "}
             <Link href="/evaltree/terms" className="font-medium underline underline-offset-4">Terms of Use</Link> before buying.
             Payments are processed securely via Stripe.
           </p>
